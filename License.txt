@@ -1,0 +1,3 @@
+Portions of this work are based upon Deadly Reentry 2 mod for Kerbal Space Program, developed by ialdabaoth and maintained by NathanKell and released under CC-BY-SA.
+
+This work is released under CC-BY-SA.
